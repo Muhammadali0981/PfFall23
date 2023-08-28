@@ -8,7 +8,7 @@
 ## Problem04
 ![Problem 4](https://github.com/Muhammadali0981/PfFall23/assets/142867504/a061ddaf-8c60-4479-8183-77ea296bed0c)
 ## Problem05
-![Problem 5](https://github.com/Muhammadali0981/PfFall23/assets/142867504/1a94908b-eab7-4fb9-9a61-1554f11976d0)
+![Problem 5](https://github.com/Muhammadali0981/PfFall23/assets/142867504/e12285e5-08e0-4cbf-b3c3-7ea5f036f5af)
 ## RoughWorkProblem05
 ![Problem 5 Working](https://github.com/Muhammadali0981/PfFall23/assets/142867504/464f01a5-7b9a-4cb9-9fa9-25180bbd629c)
 
