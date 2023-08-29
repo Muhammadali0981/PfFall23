@@ -13,4 +13,9 @@
 ### nice pattern
 ## Task05
 ![image](https://github.com/Muhammadali0981/PfFall23/assets/142867504/af675b3f-4afc-4994-91e5-27564fc1d9cd)
+## Task06
+![image](https://github.com/Muhammadali0981/PfFall23/assets/142867504/af72c9e6-3573-4e12-9839-81c4cc35f562)
+## Task07
+![image](https://github.com/Muhammadali0981/PfFall23/assets/142867504/777fe4c0-25e5-4ba1-ac98-935e807bf8f1)
+![image](https://github.com/Muhammadali0981/PfFall23/assets/142867504/cc152121-1707-4ce8-8749-f7976a87264a)
 
