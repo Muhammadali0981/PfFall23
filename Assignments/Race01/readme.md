@@ -11,6 +11,15 @@
 ![Problem 5](https://github.com/Muhammadali0981/PfFall23/assets/142867504/e12285e5-08e0-4cbf-b3c3-7ea5f036f5af)
 ## RoughWorkProblem05
 ![Problem 5 Working](https://github.com/Muhammadali0981/PfFall23/assets/142867504/464f01a5-7b9a-4cb9-9fa9-25180bbd629c)
-
-### the work was done with a pencil and then inked out with a pen :)
-
+## Problem06
+![Problem 6](https://github.com/Muhammadali0981/PfFall23/assets/142867504/dfd0e413-85bf-4a46-8685-a6ca72b3dc2f)
+## Problem07
+![Problem 7 part 1](https://github.com/Muhammadali0981/PfFall23/assets/142867504/32bf54cb-bae4-4326-aea4-0c7eeebfc329)
+![Problem 7 part 2](https://github.com/Muhammadali0981/PfFall23/assets/142867504/422f1216-c848-4418-9f08-0fba8a8453d1)
+![Problem 7 part 3](https://github.com/Muhammadali0981/PfFall23/assets/142867504/94530aeb-01a6-474c-bd2b-6736ca573fd1)
+## Problem08
+![Problem 8](https://github.com/Muhammadali0981/PfFall23/assets/142867504/5cdb31ce-9bab-4122-9f1b-2a17e39297d4)
+## Problem09
+![Problem 9](https://github.com/Muhammadali0981/PfFall23/assets/142867504/093bf7a7-514b-45e4-b934-9f110af21287)
+## Problem10
+![Problem 10](https://github.com/Muhammadali0981/PfFall23/assets/142867504/e117fc56-6772-491b-98e4-64bd7c8c9c8c)
