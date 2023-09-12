@@ -10,7 +10,7 @@
 
 # include <stdio.h>
 int main(){
-	int n, i, ls;
+	int n, i, ls; //number is n ls is line switch counter and i is star counter
 	n=0;
 	i=0;
 	ls=0;
@@ -21,11 +21,11 @@ int main(){
 		
 	        while (i>0){
 		printf("*");
-		i=i-1;
+		i=i-1; //decriminting value of i
 		}
-	printf("\n");
+	printf("\n"); //line change
 	ls=ls+1;	
 	}
-
+}
 		
 		
