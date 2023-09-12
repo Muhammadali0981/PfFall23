@@ -8,24 +8,26 @@
 		***
 */
 
-# include <stdio.h>
-int main(){
-	int n, i, j;
+#include <stdio.h>
+int main()
+{
+	int n, i, j; //number=n while i and j are counting 
 	n=0;
 	i=0;
 	j=0;
 	printf("please enter a number=");
 	scanf("%d", &n);
-	while (i<n){
+	while (i<n) //loop for linees
+	{
 		i=i+1;
 		j=0;
-		while (j<i){
+		while (j<i) //loop for stars
+		{
 		        
-			printf("*");
+			printf("*"); //stars
 			j=j+1;
 		}
-		printf("\n");
+		printf("\n"); //line change
 		
 	}
-
-}		
+}
