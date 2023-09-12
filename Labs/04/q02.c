@@ -16,7 +16,7 @@ int main(){
 	ls=0;
 	printf("please enter a number=");
 	scanf("%d", &n);
-	while (ls<n){
+	while (ls<n){//loop for lines
 		i=n;
 		
 	        while (i>0){
