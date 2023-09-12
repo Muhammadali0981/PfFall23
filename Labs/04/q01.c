@@ -5,7 +5,8 @@
 		if n is 3 output will be
 		*
 		**
-		***/
+		***
+*/
 
 # include <stdio.h>
 int main(){
