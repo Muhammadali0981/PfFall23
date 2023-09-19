@@ -1,5 +1,5 @@
 /*
-* Programmer:Muhammad Ali 
+* Programmer:Muhammad Ali 23K-0052
 * Date: 12/09/23
 * Descrption:inputs a number n and prints the sum of their squares 
 		
