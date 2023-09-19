@@ -1,5 +1,5 @@
 /*
-* Programmer:Muhammad Ali 
+* Programmer:Muhammad Ali 23K-0052
 * Date: 12/09/23
 * Descrption:tells who is older between two people 
 		
