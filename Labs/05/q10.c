@@ -1,3 +1,10 @@
+/*
+* Programmer:Muhammad Ali 23K-0052
+* Date: 20/09/23
+* Descrption:swaps the first 4 bits with the last 4 bits in a binary number 
+		
+*/
+
 #include <stdio.h>
 
 int main(){
