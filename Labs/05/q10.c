@@ -11,8 +11,8 @@ int main(){
 	int n, x, y;
 	printf("input number=");
 	scanf("%d", &n);
-	x=n/10000;
-	y=((n%10000)*10000);
+	x=n/10000;//this gives us the first 4 numbers
+	y=((n%10000)*10000);//this gives us the last 4 numbers
 	printf("%d", x+y);
 	
 }
