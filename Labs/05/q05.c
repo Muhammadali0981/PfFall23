@@ -19,7 +19,7 @@ int main(){
 	else if((y>=65) && (y<=90)){
 		printf("a captial letter was pressed");
 	}// end else if
-	else if((y>=61) && (y<=122)){
+	else if((y>=97) && (y<=122)){
 		printf("a lower case alphabet was pressed");
 	}// end else if
 	else{
