@@ -9,7 +9,7 @@ int main(){
 	printf("please input size of array=");
 	scanf("%d", &n);
 //validating array lenght 
-	if(n<=0 || n>101){
+	if(n<=0 || n>100){
 		printf("please in put a valid input");
 	}
 	else{
