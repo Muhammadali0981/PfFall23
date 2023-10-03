@@ -8,12 +8,12 @@ int main(){
 	int s=0,n;
 	printf("please input size of array=");
 	scanf("%d", &n);
-  //validating array lenght 
+//validating array lenght 
 	if(n<=0 || n>101){
 		printf("please in put a valid input");
 	}
 	else{
-    //inputting values and summing them 
+//inputting values and summing them 
 		while (n>0){
 			printf("input value ");
 			scanf("%d", &a[n]);
