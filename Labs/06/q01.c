@@ -1,7 +1,7 @@
 /*
 * Programmer:Muhammad Ali 23K-0052
 * Date: 03/10/23
-* Descrption:tells who is older between two people 
+* Descrption:Checks for prefect number
 		
 */
 #include <stdio.h>
