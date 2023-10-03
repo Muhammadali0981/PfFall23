@@ -9,10 +9,10 @@ int main(){
 	int i,j, k, t=0;
 	i= 1;
 	j= 0;
-	k = 1;
-	for(int n=0; k < 6000; n++){
-			k=j+i;
+	k = 0;
+	for(int n=0; k < 10000; n++){
 			printf("%d ", k);
+			k=j+i;
 			i = j;
 		    j = k;
 		    if(k%3==0  || k%5==0 || k%7==0){
@@ -20,10 +20,6 @@ int main(){
 			}
 			
 	}
-	printf("\n%d", t);
-	
-		
-		
-		
-	}
+	printf("\n%d", t);		
+}
 	
