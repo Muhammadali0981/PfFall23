@@ -1,7 +1,7 @@
 /*
 * Programmer:Muhammad Ali 23K-0052
 * Date: 09/10/23
-* Descrption:prints fibbonaci til 10000 and sums all the factors of 3, 5 or 7
+* description: matchstick game
 */
 #include <stdio.h>
 
