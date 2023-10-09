@@ -1,4 +1,8 @@
-
+/*
+* Programmer:Muhammad Ali 23K-0052
+* Date: 09/10/23
+* Descrption:prints fibbonaci til 10000 and sums all the factors of 3, 5 or 7
+*/
 #include <stdio.h>
 
 int main() {
@@ -16,21 +20,24 @@ int main() {
 		if (sticks > 1) {
 			switch (c) {//by using this logic the computer always wins 
 				case 4:
-					printf("computer picked 1 stick\n");
-					sticks -= 1;
-					break;
+				printf("computer picked 1 stick\n");
+				sticks -= 1;
+				break;
+				
 				case 3:
-					printf("computer picked 2 sticks\n");
-					sticks -= 2;
-					break;
+				printf("computer picked 2 sticks\n");
+				sticks -= 2;
+				break;
+				
 				case 2:
-					printf("computer picked 3 sticks\n");
-					sticks -= 3;
-					break;
+				printf("computer picked 3 sticks\n");
+				sticks -= 3;
+				break;
+				
 				case 1:
-					printf("computer picked 4 sticks\n");
-					sticks -= 4;
-					break;
+				printf("computer picked 4 sticks\n");
+				sticks -= 4;
+				break;
 			}
 		}
 		
