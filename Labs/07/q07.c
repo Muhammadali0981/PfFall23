@@ -23,7 +23,7 @@ int main(){
 	} // end for
 	
 	//Multiplying matrix
-	for (i=0;i<2;i++) 
+	for (i=0;i<2;i++){ 
         for (j = 0;j<2;j++){
             c[i][j]=0;
             for (x=0;x<2;x++){
