@@ -1,4 +1,8 @@
-
+/* Programmer:Muhammad Ali 23K-0052
+* Date: 23/10/23
+* Descrption:prints man according to n
+*/
+//note:this code was made after a long disscussion witth a friend hence the logics used may be similair
 
 
 
