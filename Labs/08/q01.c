@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-void SwapInteger(int a, int b){
+void SwapInteger(int &a, int &b){
 	int swap=0;
 	swap=a;
 	a=b;
