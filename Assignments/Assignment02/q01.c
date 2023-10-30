@@ -38,12 +38,12 @@ int main(){
 			
 			if(a[x][y] >= 100){
 				cen++;
-			}//end y loop
+			}//end if
 			
-		}//end x loop
+		}//end y loop
 		avg = total/j;
 		
 		//printing output accordingly 
 		printf("\nstats for batsemen number %d are:\ntotal runs:%d\naverage:%.02f\nhighest score:%d\ncenturies:%d\nhalf centuries:%d\n",x+1, total,avg,max,cen,hcen, "\n");                      		
-	}	
+	}//end x loop	
 }
