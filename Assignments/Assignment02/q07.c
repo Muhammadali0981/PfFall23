@@ -55,5 +55,5 @@ int main() {
         printf("Age: %d Price: %d\n", shirts[i][0], shirts[i][1]);
     }
 
-    return 0;
+    
 }
