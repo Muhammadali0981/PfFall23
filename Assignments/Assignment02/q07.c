@@ -48,7 +48,7 @@ int main() {
     }
 
     // Sort by price in descending order
-    bubbleSort(shirts, n, 0);
+    bubbleSort(shirts, n);
 
     printf("\nSorted list in descending order with respect to Price:\n");
     for (i = 0; i < n; i++) {
