@@ -1,4 +1,7 @@
-
+/* Programmer:Muhammad Ali 23K-0052
+* Date: 31/10/23
+* Descrption:gcd using Euclid's method using functions 
+*/
 
 #include<stdio.h>
 
