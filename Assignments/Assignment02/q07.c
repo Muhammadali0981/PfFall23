@@ -13,12 +13,12 @@ void bubbleSort(int shirts[][2], int n) {
             if ((shirts[i][0] > shirts[i + 1][0]) ||
                 (shirts[i][1] < shirts[i + 1][1])) {
                 // learned sorting for this :)
-                int tempAge = shirts[i][0];
-                int tempPrice = shirts[i][1];
+                int TempAge = shirts[i][0];
+                int TempPrice = shirts[i][1];
                 shirts[i][0] = shirts[i + 1][0];
                 shirts[i][1] = shirts[i + 1][1];
-                shirts[i + 1][0] = tempAge;
-                shirts[i + 1][1] = tempPrice;
+                shirts[i + 1][0] = TempAge;
+                shirts[i + 1][1] = TempPrice;
                 swapped = 1;
             }
         }
