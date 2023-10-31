@@ -1,4 +1,7 @@
-
+/* Programmer:Muhammad Ali 23K-0052
+* Date: 30/10/23
+* Description: sorts 2d array if shirts according to price and age
+*/
 
 #include <stdio.h>
 
