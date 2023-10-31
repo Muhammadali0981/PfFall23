@@ -1,4 +1,7 @@
-
+/* Programmer:Muhammad Ali 23K-0052
+* Date: 3@/10/23
+* Descrption:finds persistence of a number
+*/
 #include <stdio.h>
 
 
