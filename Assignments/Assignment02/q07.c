@@ -5,13 +5,13 @@
 
 #include <stdio.h>
 
-void bubbleSort(int shirts[][2], int n, int ageAscending) {
+void bubbleSort(int shirts[][2], int n) {
     int swapped;
     do {
         swapped = 0;
         for (int i = 0; i < n - 1; i++) {
-            if ((ageAscending && shirts[i][0] > shirts[i + 1][0]) ||
-                (!ageAscending && shirts[i][1] < shirts[i + 1][1])) {
+            if ((shirts[i][0] > shirts[i + 1][0]) ||
+                (shirts[i][1] < shirts[i + 1][1])) {
                 // learned sorting for this :)
                 int tempAge = shirts[i][0];
                 int tempPrice = shirts[i][1];
@@ -40,7 +40,7 @@ int main() {
     }
 
     // Sort by age in ascending order
-    bubbleSort(shirts, n, 1);
+    bubbleSort(shirts, n);
 
     printf("\nSorted list in ascending order with respect to Age:\n");
     for (i = 0; i < n; i++) {
