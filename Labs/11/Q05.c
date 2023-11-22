@@ -8,9 +8,9 @@
 
 typedef struct{ //netsed structure 
 
-		int employee_id;
-		int salary;
-		char name[100];
+	int employee_id;
+	int salary;
+	char name[100];
 
 }employee;
 
