@@ -1,3 +1,8 @@
+/* Programmer:Muhammad Ali 23K-0052
+* Date: 28/11/23
+* Descrption:course manging system
+*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -139,4 +144,5 @@ int main() {
     return 0;
 }
 
-Show quoted text
+
+
