@@ -6,3 +6,7 @@
 
 ## Q2:
 <img width="960" alt="image" src="https://github.com/Muhammadali0981/PfFall23/assets/142867504/cac7bf10-d985-4fb5-a23c-6c5ed3ef870d">
+
+## Q3:
+
+proof is the files :)
