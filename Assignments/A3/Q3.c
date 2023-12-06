@@ -1,6 +1,6 @@
 /* Programmer:Muhammad Ali 23K-0052
 * Date: 05/12/23
-* Descrption:making company employee management system through structs
+* Descrption:making company employee management system through filing
 */
 
 
