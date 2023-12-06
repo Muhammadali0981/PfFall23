@@ -10,3 +10,7 @@
 ## Q3:
 
 proof is the files :)
+
+## Q4:
+![image](https://github.com/Muhammadali0981/PfFall23/assets/142867504/778770c2-dcf6-4024-ab12-136e0508dd41)
+
