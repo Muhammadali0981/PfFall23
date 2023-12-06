@@ -1,6 +1,6 @@
 /* Programmer:Muhammad Ali 23K-0052
-* Date: 05/12/23
-* Descrption:making company employee management system through structs
+* Date: 06/12/23
+* Descrption:checking max number in a square matrix an printing sub matrix with max values using filing
 */
 
 #include <stdio.h>
@@ -8,6 +8,7 @@
 
 int main(int argc, char const *argv[])
 {
+	//max intialization
 	int n;
 	int max=-10000;
 
