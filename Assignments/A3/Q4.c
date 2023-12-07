@@ -35,7 +35,7 @@ int main(){
 
 	printf("------------------------\nName:Muhammad Ali\nRoll Name:23K-0052\n------------------------\n");
 
-
+        //intializations, intialize max at very small value 
 	int MaxHr = -1000;
 	int mh;
 	int MaxAdmin = -1000;
@@ -46,7 +46,7 @@ int main(){
 	int SumAdmin = 0;
 	int SumAcc = 0;
 
-
+        //intialize worker struct array 
 	Worker w[8] = {
 		{"001", "Monika", "Arora", 100000, "2014-02-20 09:00:00", "HR"},
 		{"002", "Niharika", "Verma", 80000, "2014-06-11 09:00:00", "Admin"},
@@ -77,8 +77,10 @@ int main(){
 		{3, "Lead", "2016-06-11 00:00:00"}
 
 	};
+	//for loop for checking mac of each department and sun
 	for (int i = 0; i < 8; i++)
-	{
+	{       
+		//could have used switch here but went with if
 		if(strcmp(w[i].department,"HR")==0){
 			SumHr+=w[i].sal;
 
@@ -113,7 +115,7 @@ int main(){
 	}
 	
 	printf("Max salary:\n");
-
+        //printing with padding 
 	printf(" %-5s| %-11s| %-11s| %-11d| %-13s| %-11s|\n",w[mh].id,w[mh].fname,w[mh].lname,w[mh].sal,w[mh].StartDate,w[mh].department);
 	printf(" %-5s| %-11s| %-11s| %-11d| %-13s| %-11s|\n",w[ma].id,w[ma].fname,w[ma].lname,w[ma].sal,w[ma].StartDate,w[ma].department);
 	printf(" %-5s| %-11s| %-11s| %-11d| %-13s| %-11s|\n",w[mac].id,w[mac].fname,w[mac].lname,w[mac].sal,w[mac].StartDate,w[mac].department);
